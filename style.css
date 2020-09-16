@@ -97,7 +97,7 @@ h1 {
   text-align: center;
   font-size: 18px;
 }
-.about p {
+.about p, .about .text {
   font-size: 14px;
   text-align: center;
   /* margin-top: 10px; */
@@ -107,7 +107,7 @@ h1 {
     grid-area: skills;
 }
 
-.skills p {
+.skills p, .skills .text {
   font-size: 14px;
   text-align: center;
 }
@@ -223,10 +223,6 @@ text-align: center;
 }
 
 .footer {
-  /* background-color: rgba(0, 0, 0, 0.5);
-  border: 0px solid transparent;
-  border-radius: 15px; */
-
   text-align: center;
   padding: 0px 10px 15px;
 }
@@ -247,10 +243,6 @@ text-align: center;
   border-color: white;
   transition: all 0.3s ease-in-out;
 }
-
-/* .contacts {
-  grid-area: contacts;
-} */
 
 .portfolio_list, .contacts_list, .nav_list {
 list-style: none;
