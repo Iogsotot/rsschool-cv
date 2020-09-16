@@ -22,3 +22,16 @@ i'm going to learn it deeper.
 My level of English is good enough for reading documentation and finding information for work. I think my level is between A2 - B1.
 
 At the moment, I have already completed training at HTML-Academy in the direction of Web-developer, module of HTML-Markup on Vectree, now I study on Hexlet, learn.javascript.ru and RSSchool.
+
+### Potfolio
+In recent years, I worked in a different specialty, so II only have training projects. Some of this:
+1. [mini-game] on pure JS   
+2. beautiful [landing-page]
+3. visual copy of [Netflix]
+
+More you can see on my [github].
+
+[mini-game]: <https://iogsotot.github.io/rock-scissors-paper/>
+[landing-page]: https://iogsotot.github.io/Zippy/
+[Netflix]: https://iogsotot.github.io/Netflix/
+[github]: https://github.com/Iogsotot
