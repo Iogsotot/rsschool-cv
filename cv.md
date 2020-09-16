@@ -24,7 +24,7 @@ My level of English is good enough for reading documentation and finding informa
 At the moment, I have already completed training at HTML-Academy in the direction of Web-developer, module of HTML-Markup on Vectree, now I study on Hexlet, learn.javascript.ru and RSSchool.
 
 ### Potfolio
-In recent years, I worked in a different specialty, so II only have training projects. Some of this:
+In recent years, I worked in a different specialty, so I only have training projects. Some of this:
 1. [mini-game] on pure JS   
 2. beautiful [landing-page]
 3. visual copy of [Netflix]
