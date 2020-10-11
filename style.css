@@ -73,7 +73,7 @@ footer {
 }
 
 .avatar {
-  background-image: url("/avatar.jpg");
+  background-image: url("avatar.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 150px;
